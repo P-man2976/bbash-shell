@@ -1,0 +1,47 @@
+{
+	"name": "bbash-shell",
+	"displayName": "BBash Shell",
+	"description": "The VSCode color theme of Mayuzumi Kai.",
+	"publisher": "P-man2976",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/P-man2976/bbash-shell"
+	},
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.68.0"
+	},
+	"scripts": {
+		"build": "vsce package",
+		"publish": "vsce publish"
+	},
+	"keywords": [
+		"nijisanji",
+		"mayuzumi",
+		"vtuber",
+		"green"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "BBash Shell",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BBash Shell-color-theme.json"
+			},
+			{
+				"label": "BBash Shell - Slate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BBash Shell Slate-color-theme.json"
+			}
+		]
+	},
+	"galleryBanner": {
+		"color": "#076776",
+		"theme": "dark"
+	},
+	"icon": "assets/icon.png",
+	"preview": true
+}
