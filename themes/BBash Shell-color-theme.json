@@ -2,11 +2,12 @@
 	"name": "BBash Shell",
 	"colors": {
 		"focusBorder": "#83b3bb",
+		"foreground": "#cde1e4",
 		"textLink.foreground": "#6aa4ad",
 		"textLink.activeForeground": "#6aa4ad",
 		"editorWidget.background": "#04343b",
+		"editor.foreground": "#cde1e4",
 		"editor.background": "#021f23",
-		"editor.foreground": "#eeffff",
 		"editor.selectionBackground": "#07677670",
 		"minimap.selectionHighlight": "#07677670",
 		"dropdown.background": "#04343b",

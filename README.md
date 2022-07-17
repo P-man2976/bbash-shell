@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="assets/cover.png">
-The VSCode color theme of <a href="https://www.youtube.com/c/MayuzumiX">Mayuzumi Kai</a>.<br />
+The VSCode color theme of <a href="https://www.youtube.com/c/MayuzumiX">Kai Mayuzumi</a>.<br />
 Inspired by <a href="https://github.com/holodata/ancient-one-dark">Ancient One Dark</a>.
 </p>
 

@@ -2,13 +2,15 @@
 	"name": "BBash Shell Slate",
 	"colors": {
 		"focusBorder": "#076776",
+		"foreground": "#cde1e4",
+
 		"textLink.foreground": "#6aa4ad",
 		"textLink.activeForeground": "#6aa4ad",
 		
 		"editorWidget.background": "#181818",
 
 		"editor.background": "#121212",
-		"editor.foreground": "#eeffff",
+		"editor.foreground": "#cde1e4",
 		"editor.selectionBackground": "#07677670",
 		"minimap.selectionHighlight": "#07677670",
 		
