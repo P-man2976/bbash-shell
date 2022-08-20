@@ -1,5 +1,9 @@
 # Change Log
 
+## v0.0.3
+
+- Update icon
+
 ## v0.0.2
 
 - Some minor changes

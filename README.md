@@ -24,7 +24,7 @@ Ideas for more visibility are also welcome.
 
 ## Credits & Thanks / クレジット・謝辞
 
-このテーマは [Ancient One Dark](https://github.com/holodata/ancient-one-dark) を基にして作成しました。[uetchy](https://uechi.io/) 様（AODark作者）、すべてのコントリビューターの方々には御礼申し上げます。
+このテーマは [Ancient One Dark](https://github.com/holodata/ancient-one-dark) を参考にさせていただき、作成しました。[uetchy](https://uechi.io/) 様（AODark作者）、すべてのコントリビューターの方々には御礼申し上げます。
 
 This theme is mainly based on [Ancient One Dark](https://github.com/holodata/ancient-one-dark). **Big** thanks for [uetchy](https://uechi.io/) (Author of AODark) and all contributors!
 
